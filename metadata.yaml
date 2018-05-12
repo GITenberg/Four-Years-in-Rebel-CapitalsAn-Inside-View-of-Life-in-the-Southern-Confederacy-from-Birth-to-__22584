@@ -1,0 +1,36 @@
+_repo: Four-Years-in-Rebel-CapitalsAn-Inside-View-of-Life-in-the-Southern-Confederacy-from-Birth-to-__22584
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Leon, T. C. (Thomas Cooper)
+    aliases:
+    - DeLeon, T. C. (Thomas Cooper)
+    - Leon, T. C. De (Thomas Cooper)
+    - De Leon, Thomas Cooper
+    birthdate: 1839
+    deathdate: 1914
+    gutenberg_agent_id: '25424'
+    url: http://www.gutenberg.org/2009/agents/25424
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Confederate States of America'
+- !lcsh 'Southern States -- Description and travel'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+title: 'Four Years in Rebel Capitals
+
+  An Inside View of Life in the Southern Confederacy from Birth to Death'
+url: http://www.gutenberg.org/ebooks/22584
